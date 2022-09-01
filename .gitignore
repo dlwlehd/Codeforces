@@ -8,3 +8,6 @@ out
 gen
 
 .autocp
+textfile
+CMakeLists.txt
+cmake-build-debug
